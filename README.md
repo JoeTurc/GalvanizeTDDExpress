@@ -26,3 +26,6 @@ Your job is to build out the necessary endpoints (listed below) and create the b
 - `GET reviews/:movieId` - returns all reviews for a given movie
 - `POST reviews` - creates a new review, returns success status in JSON response 
 - `POST register` - creates a new user, returns success status in JSON response
+
+# Our contribution
+### Use setup.sql for server
